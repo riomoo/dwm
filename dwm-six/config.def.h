@@ -11,7 +11,7 @@ static const char *fonts[]     = {"Mononoki Nerd Font:size=11:antialias=true:aut
                                   "Hack:size=10:antialias=true:autohint=true",
                                   "JoyPixels:size=12:antialias=true:autohint=true"};
 
-#include "../../../themes/using/colors-wal-dwm.h"
+#include "/home/moo/.config/themes/using/colors-wal-dwm.h"
 /* tagging */
 static const char *tags[] = { "", "", "", "", "", "" };
 
